@@ -1,0 +1,38 @@
+Node	Type
+pivampicillin	Drug
+Sodium dichromate	Drug
+isotretinoin	Drug
+co-dergocrine mesilate	Drug
+(-)-isoprenaline	Drug
+tretinoin	Drug
+IMD-0354	Drug
+tetryzoline	Drug
+suloctidil	Drug
+clonidine	Drug
+Salmeterol	Drug
+1-[4-(4-aminothieno[2,3-d]pyrimidin-5-yl)phenyl]-3-(3-methylphenyl)urea	Drug
+GW612286X	Drug
+Kinome_2812	Drug
+Kinome_504	Drug
+PD173074	Drug
+PDK1/Akt/Flt Dual Pathway Inhibitor	Drug
+CHEMBL1969102	Drug
+CHEMBL1970317	Drug
+MIGLITOL	Drug
+POTASSIUM PERSULFATE	Drug
+Puromycin aminonucleoside	Drug
+chondroitin	Drug
+fluticasone	Drug
+phenylmercury(1+)	Drug
+clomiphene	Drug
+17-Ethynyl estradiol	Drug
+OCHRATOXIN A	Drug
+IER3	Gene
+RNASE2	Gene
+CSF1R	Gene
+S100A9	Gene
+AIM2	Gene
+VCAN	Gene
+SLPI	Gene
+VNN1	Gene
+F5	Gene

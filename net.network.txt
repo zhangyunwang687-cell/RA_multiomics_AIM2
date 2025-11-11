@@ -1,0 +1,45 @@
+Node1	Node2	Type
+pivampicillin	IER3	Drug
+Sodium dichromate	IER3	Drug
+isotretinoin	IER3	Drug
+co-dergocrine mesilate	IER3	Drug
+(-)-isoprenaline	IER3	Drug
+tretinoin	IER3	Drug
+IMD-0354	IER3	Drug
+tetryzoline	IER3	Drug
+suloctidil	IER3	Drug
+clonidine	IER3	Drug
+pivampicillin	RNASE2	Drug
+Salmeterol	RNASE2	Drug
+clonidine	RNASE2	Drug
+Sodium dichromate	CSF1R	Drug
+co-dergocrine mesilate	CSF1R	Drug
+1-[4-(4-aminothieno[2,3-d]pyrimidin-5-yl)phenyl]-3-(3-methylphenyl)urea	CSF1R	Drug
+GW612286X	CSF1R	Drug
+Kinome_2812	CSF1R	Drug
+Kinome_504	CSF1R	Drug
+PD173074	CSF1R	Drug
+PDK1/Akt/Flt Dual Pathway Inhibitor	CSF1R	Drug
+CHEMBL1969102	CSF1R	Drug
+CHEMBL1970317	CSF1R	Drug
+Sodium dichromate	S100A9	Drug
+tretinoin	S100A9	Drug
+MIGLITOL	S100A9	Drug
+POTASSIUM PERSULFATE	S100A9	Drug
+isotretinoin	AIM2	Drug
+tretinoin	AIM2	Drug
+suloctidil	AIM2	Drug
+isotretinoin	VCAN	Drug
+co-dergocrine mesilate	VCAN	Drug
+(-)-isoprenaline	VCAN	Drug
+Puromycin aminonucleoside	VCAN	Drug
+tetryzoline	VCAN	Drug
+chondroitin	VCAN	Drug
+Salmeterol	SLPI	Drug
+fluticasone	SLPI	Drug
+(-)-isoprenaline	VNN1	Drug
+fluticasone	VNN1	Drug
+phenylmercury(1+)	F5	Drug
+clomiphene	F5	Drug
+17-Ethynyl estradiol	F5	Drug
+OCHRATOXIN A	F5	Drug
